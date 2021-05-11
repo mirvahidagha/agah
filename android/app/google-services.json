@@ -1,0 +1,92 @@
+{
+  "project_info": {
+    "project_number": "865214129789",
+    "project_id": "fir-test-e06b8",
+    "storage_bucket": "fir-test-e06b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865214129789:android:43a2351f4d2ce06d803314",
+        "android_client_info": {
+          "package_name": "com.example.agah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865214129789-0krvoitk9vkoquenv56mvv2glmapr6dk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.agah",
+            "certificate_hash": "278a18eae3553f8f6bd39f33acc6616d90b33860"
+          }
+        },
+        {
+          "client_id": "865214129789-fgcce1vmvqom4fqg15b4bcn8vsofaslj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.agah",
+            "certificate_hash": "9c33c59bf454c12b620ade1d272e9e2a9372a7bc"
+          }
+        },
+        {
+          "client_id": "865214129789-jg9ifai5iv3c8ifp70c3510jmiqr1mc4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsOxitkPvMV8daJTF3kC3Gq-Q3CKwcgps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865214129789-jg9ifai5iv3c8ifp70c3510jmiqr1mc4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865214129789:android:9247db36d7ce50f1803314",
+        "android_client_info": {
+          "package_name": "com.mirvahidagha.agah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865214129789-n1ueg0fmdep81e7l1armelj8jijnvv8q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mirvahidagha.agah",
+            "certificate_hash": "5733e20ee48a18b0fe643e930c5435411f1fcfc8"
+          }
+        },
+        {
+          "client_id": "865214129789-jg9ifai5iv3c8ifp70c3510jmiqr1mc4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsOxitkPvMV8daJTF3kC3Gq-Q3CKwcgps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865214129789-jg9ifai5iv3c8ifp70c3510jmiqr1mc4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
